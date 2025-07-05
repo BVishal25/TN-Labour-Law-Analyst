@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Streamlit secrets (contains API keys)
+.streamlit/secrets.toml
+
+# LlamaIndex persisted index
+storage/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
